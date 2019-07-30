@@ -1,6 +1,7 @@
 # Go Buildpack Changelog
 
 ## Unreleased
+* Remove hg and bzr installation as they are now part of the heroku-16 and heroku-18 build images.
 
 ## v130 (2019-09-26)
 * Add go1.13.1, use for go1.13
